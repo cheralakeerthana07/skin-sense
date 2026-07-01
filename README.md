@@ -1,50 +1,102 @@
-# Welcome to your Expo app 👋
+# Skin Sense
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 📌 Overview
 
-## Get started
+Skin Sense is a mobile application developed using React Native and Expo to help users learn about skin health and assist in the preliminary identification of common skin conditions through an intuitive and user-friendly interface. The project focuses on creating an accessible and responsive mobile experience while promoting awareness of skin care and encouraging users to seek professional medical advice when necessary.
 
-1. Install dependencies
+> **Disclaimer:** This application is developed for educational purposes only and should not be considered a substitute for professional medical diagnosis or treatment.
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## ✨ Features
 
-   ```bash
-   npx expo start
-   ```
+- Modern and responsive mobile UI
+- Easy navigation
+- Skin health information
+- Image upload interface
+- Cross-platform support using Expo
+- Clean and interactive user experience
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🛠️ Tech Stack
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- React Native
+- Expo
+- TypeScript
+- JavaScript
+- Node.js
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 📂 Project Structure
 
-```bash
-npm run reset-project
+```
+Skin-Sense/
+├── app/
+├── assets/
+├── components/
+├── constants/
+├── hooks/
+├── scripts/
+├── app.json
+├── package.json
+├── tsconfig.json
+└── README.md
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 🚀 Getting Started
 
-To learn more about developing your project with Expo, look at the following resources:
+1. Clone the repository
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+git clone <repository-url>
+```
 
-## Join the community
+2. Install dependencies
 
-Join our community of developers creating universal apps.
+```bash
+npm install
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+3. Start the Expo development server
+
+```bash
+npx expo start
+```
+
+4. Run the application on an Android emulator, iOS simulator, or by scanning the QR code using the Expo Go app.
+
+---
+
+## 📈 Future Enhancements
+
+- AI-powered skin disease detection
+- User authentication
+- Consultation with dermatologists
+- Skin health tracking
+- Cloud database integration
+- Dark mode support
+
+---
+
+## 👩‍💻 Author
+
+This project was designed and developed by **Ch. Keerthanakrishna** as part of a learning journey in mobile application development using React Native and Expo. Skin Sense reflects an interest in combining technology and healthcare to create user-friendly applications that promote skin health awareness and provide an intuitive mobile experience.
+
+## 📸 Screenshots
+
+### Home Screen
+
+<img width="711" height="640" alt="Screenshot 2026-07-01 233344" src="https://github.com/user-attachments/assets/5d77c6b7-1679-4c91-bd05-e0ab6efb2ede" />
+
+### Prediction Screen
+
+<img width="307" height="692" alt="Screenshot 2026-07-01 233828" src="https://github.com/user-attachments/assets/1b5ccffc-1e8b-49f9-ba35-7ce1a6a2742d" />
+
+### Results Screen
+
+<img width="326" height="677" alt="Screenshot 2026-07-01 233843" src="https://github.com/user-attachments/assets/50099e7c-fd18-4571-87e0-02d0cc0a58ef" />
+>>>>>>> 3e2732161a4785fe5fa40ad571db7175f9b9054a
