@@ -85,3 +85,14 @@ npx expo start
 ## 👩‍💻 Author
 
 This project was designed and developed by **Ch. Keerthanakrishna** as part of a learning journey in mobile application development using React Native and Expo. Skin Sense reflects an interest in combining technology and healthcare to create user-friendly applications that promote skin health awareness and provide an intuitive mobile experience.
+
+## 📸 Screenshots
+
+### Home Screen
+<img width="711" height="640" alt="Screenshot 2026-07-01 233344" src="https://github.com/user-attachments/assets/5d77c6b7-1679-4c91-bd05-e0ab6efb2ede" />
+
+### Prediction Screen
+<img width="307" height="692" alt="Screenshot 2026-07-01 233828" src="https://github.com/user-attachments/assets/1b5ccffc-1e8b-49f9-ba35-7ce1a6a2742d" />
+
+### Results Screen
+<img width="326" height="677" alt="Screenshot 2026-07-01 233843" src="https://github.com/user-attachments/assets/50099e7c-fd18-4571-87e0-02d0cc0a58ef" />
